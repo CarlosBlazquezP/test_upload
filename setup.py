@@ -5,8 +5,8 @@ install_requires = [
     'dalex>=1.4.1'
 ]
 
-setup(name='fairdetect',
-      version='0.1',  # Development release
+setup(name='fairdetect_test',
+      version='0.2',  # Development release
       description='Library to identify bias in pre-trained models!',
       url='https://github.com/CarlosBlazquezP/test_github_upload',
       author='Carlos Blazquez',
