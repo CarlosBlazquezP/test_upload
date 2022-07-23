@@ -12,6 +12,6 @@ setup(name='fairdetect',
       author='Carlos Blazquez',
       author_email='Carlos.BlazquezP@gmail.com',
       license='MIT',
-          packages=['fairdetect'],
+          packages=['fairdetect_test'],
       zip_safe=False,
       install_requires=install_requires)
